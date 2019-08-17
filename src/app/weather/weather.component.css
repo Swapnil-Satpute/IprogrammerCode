@@ -1,0 +1,22 @@
+.main{
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 20px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text{
+  border: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.button{
+  background-color: white;
+  border: solid 1px;
+
+}
+
+.center{
+  text-align: center;
+}
